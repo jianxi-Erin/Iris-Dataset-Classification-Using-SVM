@@ -27,9 +27,9 @@
 ├── models/                    # 模型文件夹
 │   └── svm_model_0.9666.pkl   # 已保存的 SVM 模型
 ├── notebooks/                 # Jupyter 笔记本
-│   └── main.ipynb # 数据分析与训练代码
+│   └── main.ipynb             # 数据分析与训练代码
 ├── doc/
-│   └── 使用SVM进行鸢尾花的分类.docx
+│   └── 使用SVM进行鸢尾花的分类.docx    # 项目报告
 ├── README.md                  # 项目说明文件
 └── requirements.txt           # 依赖库
 
@@ -52,7 +52,7 @@ pip install -r requirements.txt
 
 ### **运行项目**  
 1. **加载数据**：将 `IRIS.csv` 文件放入 `datas/` 文件夹中。  
-2. **训练模型**：打开 `notebooks/MAIN.ipynb` 文件，运行所有单元格以训练 SVM 模型。  
+2. **训练模型**：打开 `notebooks/main.ipynb` 文件，运行所有单元格以训练 SVM 模型。  
 3. **保存模型**：训练完成后，模型会保存到 `models/svm_model.pkl` 文件中。  
 4. **预测**：使用保存的模型对新数据进行分类预测。  
 
