@@ -134,8 +134,8 @@ print("预测结果：", predictions)
 ## **联系信息**  
 如有任何问题或建议，请联系：  
 - **开发者**：简希 (Jian Xi)  
-- **邮箱**：jianxi@gmail.com  
-- **GitHub**：[简希 项目主页](https://github.com/jianxi-Erin/Iris-Dataset-Classification-Using-SVM)  
+- **邮箱**：jianxi.erin@gmail.com  
+- **GitHub**：[简希 主页](https://github.com/jianxi-Erin/)  
 
 --- 
 
