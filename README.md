@@ -98,7 +98,7 @@ import joblib
 import pandas as pd
 
 # 加载模型
-model = joblib.load('models/svm_model.pkl')
+model = joblib.load('../model/models/svm_model.pkl')
 
 # 加载新数据
 new_data = pd.DataFrame({
