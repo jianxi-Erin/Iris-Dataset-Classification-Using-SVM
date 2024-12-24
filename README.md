@@ -51,8 +51,8 @@ pip install -r requirements.txt
 ```  
 
 ### **运行项目**  
-1. **加载数据**：将 `iris.csv` 文件放入 `data/` 文件夹中。  
-2. **训练模型**：打开 `notebooks/iris_classification.ipynb` 文件，运行所有单元格以训练 SVM 模型。  
+1. **加载数据**：将 `IRIS.csv` 文件放入 `datas/` 文件夹中。  
+2. **训练模型**：打开 `notebooks/MAIN.ipynb` 文件，运行所有单元格以训练 SVM 模型。  
 3. **保存模型**：训练完成后，模型会保存到 `models/svm_model.pkl` 文件中。  
 4. **预测**：使用保存的模型对新数据进行分类预测。  
 
@@ -82,8 +82,8 @@ pip install -r requirements.txt
 
 | 文件名                  | 描述                                              |  
 |-------------------------|---------------------------------------------------|  
-| `data/iris.csv`         | Iris 数据集                                       |  
-| `notebooks/iris_classification.ipynb` | 项目的 Jupyter Notebook 文件，包含完整代码和分析 |  
+| `data_SETS/IRIS.csv`         | Iris 数据集                                       |  
+| `notebooks/main.ipynb` | 项目的 Jupyter Notebook 文件，包含完整代码和分析 |  
 | `models/svm_model.pkl`  | 训练后的 SVM 模型文件                            |  
 | `requirements.txt`      | Python 依赖库列表                                |  
 
@@ -134,8 +134,8 @@ print("预测结果：", predictions)
 ## **联系信息**  
 如有任何问题或建议，请联系：  
 - **开发者**：简希 (Jian Xi)  
-- **邮箱**：jianxi@example.com  
-- **GitHub**：[DigitRec 项目主页](https://github.com/jianxi-Erin/DigitRec)  
+- **邮箱**：jianxi@gmail.com  
+- **GitHub**：[简希 项目主页](https://github.com/jianxi-Erin/Iris-Dataset-Classification-Using-SVM)  
 
 --- 
 
